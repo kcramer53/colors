@@ -1,0 +1,23 @@
+.light-background {
+  background-color: black;
+  color: white;
+}
+
+
+.green-background {
+  background-color: green;
+}
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
+}
+
+/* box highlight border */
+.makeItAbox {
+  border: 10px solid darkgreen;
+  margin: 30px;
+  background-color: yellow;
+}
